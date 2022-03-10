@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ngô Minh Nhân
+- 👋 Hi, I’m Hoang Van Thanh
 - 👀 I’m interested in Laravel Framework
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me become a man
