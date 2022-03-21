@@ -43,6 +43,9 @@
 ## &#x1f4c8; GitHub Stats
 
 ![thanhhv317's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhhv317&show_icons=true&theme=merko&count_private=true&include_all_commits=true)
+<br/>
+![thanhhv317's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhv317&hide=html,css,php,java&langs_count=4)
+
 
 
 
