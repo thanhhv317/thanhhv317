@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hoang Van Thanh
 - 👀 I’m interested in Node Js
-- 🌱 I’m currently learning NodeJs, ReactJs, Backend stacks,...
+- 🌱 I’m currently learning NodeJs, ReactJs, Golang, Backend stacks,...
 - 📫 How to reach me become a man
 
 ## 🔧 Technologies & Tools
