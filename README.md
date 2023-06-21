@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Hoang Van Thanh
-- 👀 I’m interested in Node Js
-- 🌱 I’m currently learning NodeJs, ReactJs, Golang, Backend stacks,...
+- 👀 I’m interested in backend stacks
+- 🌱 I’m currently learning NodeJs, ReactJs, Golang, etc.
 - 📫 How to reach me become a man
 
 ## 🔧 Technologies & Tools
+
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/nodejs/nodejs.png" />
@@ -44,7 +46,7 @@
 
 ![thanhhv317's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhhv317&show_icons=true&theme=merko&count_private=true&include_all_commits=true)
 <br/>
-![thanhhv317's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhv317&hide=html,css,php,java&langs_count=4)
+![thanhhv317's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhv317&hide=html,css,php,java,tsql,asp,starlark&langs_count=4)
 
 
 
